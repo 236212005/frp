@@ -1,7 +1,7 @@
 {
   "name": "frp",
   "description": "frp to heroku sample",
-  "repository": "https://github.com/heroku/node-js-getting-started",
+  "repository": "https://github.com/236212005/frp",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["node", "express", "static"]
 }
